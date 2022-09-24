@@ -1,0 +1,19 @@
+{
+  "name": "praktic",
+  "version": "1.0.0",
+  "description": "Tasks in JS language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmidD6/Tasks-in-JS.git"
+  },
+  "author": "Dmytro Balamut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmidD6/Tasks-in-JS/issues"
+  },
+  "homepage": "https://github.com/AmidD6/Tasks-in-JS#readme"
+}
